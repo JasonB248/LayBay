@@ -8,7 +8,3 @@ Once a user logs in to LayBay, they are taken to the home page, which serves as 
 LayBay simplifies the process of setting up LayBay transactions. Customers can easily create new LayBay agreements, specifying the desired items, payment plan, and duration. The program allows for clear and transparent communication between customers and sellers, ensuring a seamless LayBay experience.
 
 Furthermore, LayBay enables users to track the progress of their LayBay transactions. Through the program's tracking feature, customers can stay updated on payment deadlines, monitor payment progress, and receive notifications when payments are due. This level of tracking and transparency helps customers feel confident and in control of their LayBay commitments.
-
-Sebastian van Zyl's portfolio showcases the ingenuity and expertise behind the creation of LayBay. By combining web design and application development, Sebastian has created an innovative solution that revolutionizes the LayBay process, providing a convenient and efficient platform for customers and sellers alike.
-
-Overall, LayBay, with its website-turned-exe program and user-friendly features, offers a streamlined approach to LayBay transactions, making it a valuable tool for customers seeking a hassle-free LayBay experience.
